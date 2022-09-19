@@ -3,9 +3,9 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['6282xxxxxx']  // isi jika perlu
-global.mods = ['6282xxxxxx']   // isi jika perlu
-global.prems = ['6282xxxxxx']  // isi jika perlu
+global.owner = ['6283181341902']  // isi jika perlu
+global.mods = ['6283181341902']   // isi jika perlu
+global.prems = ['6283181341902']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
 global.nameowner = '⫹⫺ OWNER' // isi nama kalian bebas
