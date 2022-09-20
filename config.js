@@ -8,11 +8,11 @@ global.mods = ['6283181341902']   // isi jika perlu
 global.prems = ['6283181341902']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
-global.nameowner = '⫹⫺ OWNER' // isi nama kalian bebas
-global.numberowner = '6282xxxxxx' // isi nomor kalian dengan awalan seperti di contoh 
-global.dana = '6282xxxxxx' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6282xxxxxx' // isi dengan nomor pulsa hp kalian
-global.gopay = '6282xxxxxx'
+global.nameowner = '⫹⫺ PLER' // isi nama kalian bebas
+global.numberowner = '6283181341902' // isi nomor kalian dengan awalan seperti di contoh 
+global.dana = '6283181341902' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '6283181341902' // isi dengan nomor pulsa hp kalian
+global.gopay = '6283181341902'
 
 //Name Bot & Grouplink//
 global.namebot = 'R-txzyMd'
@@ -22,10 +22,10 @@ global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link i
 //Tanpilan wm Bot //
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© R-TXZY-MD'
+global.wm = '© wanzz BOTZ MD'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
+global.wm2 = '⫹⫺ wanzzbotzz'
+global.wm3 = '©wanzz'
 global.wm4 = '© 2021/2022'
 global.htki = '––––––『' 
 global.htka = '』––––––'
